@@ -14,7 +14,7 @@ Standard library only. Every call takes a `context.Context`. Go 1.23 or newer.
 go get github.com/loootai/looot-go@v0.1.0
 ```
 
-Create an agent token at [looot.ai](https://looot.ai) (Settings, Agent tokens) and export it:
+Create an API key at [looot.ai](https://looot.ai) (Settings, API keys) and export it:
 
 ```bash
 export LOOOT_TOKEN=...
